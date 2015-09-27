@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="white_grey">#f7f7f7</color>
+    <color name="gray_seperator_dark_theme">#585a61</color>
+    <color name="black">#000000</color>
+    <color name="black_color">#101010</color>
+    <color name="ColorPrimary">#0277bd</color>
+    <color name="ColorPrimaryDark">#1d69a0</color>
+</resources>
